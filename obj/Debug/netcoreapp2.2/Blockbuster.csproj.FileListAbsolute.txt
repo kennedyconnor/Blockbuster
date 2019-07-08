@@ -1,0 +1,11 @@
+C:\source\codeworks\Blockbuster\bin\Debug\netcoreapp2.2\Blockbuster.deps.json
+C:\source\codeworks\Blockbuster\bin\Debug\netcoreapp2.2\Blockbuster.runtimeconfig.json
+C:\source\codeworks\Blockbuster\bin\Debug\netcoreapp2.2\Blockbuster.runtimeconfig.dev.json
+C:\source\codeworks\Blockbuster\bin\Debug\netcoreapp2.2\Blockbuster.dll
+C:\source\codeworks\Blockbuster\bin\Debug\netcoreapp2.2\Blockbuster.pdb
+C:\source\codeworks\Blockbuster\obj\Debug\netcoreapp2.2\Blockbuster.csprojAssemblyReference.cache
+C:\source\codeworks\Blockbuster\obj\Debug\netcoreapp2.2\Blockbuster.csproj.CoreCompileInputs.cache
+C:\source\codeworks\Blockbuster\obj\Debug\netcoreapp2.2\Blockbuster.AssemblyInfoInputs.cache
+C:\source\codeworks\Blockbuster\obj\Debug\netcoreapp2.2\Blockbuster.AssemblyInfo.cs
+C:\source\codeworks\Blockbuster\obj\Debug\netcoreapp2.2\Blockbuster.dll
+C:\source\codeworks\Blockbuster\obj\Debug\netcoreapp2.2\Blockbuster.pdb
